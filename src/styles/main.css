@@ -1,0 +1,6 @@
+:root {
+  /* ----- Chota Overrides ----- */
+  --color-primary: #0a558c;
+  --font-family-sans: Inter, sans-serif;
+  --grid-maxWidth: 80rem;
+}
